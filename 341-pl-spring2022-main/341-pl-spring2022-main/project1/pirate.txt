@@ -1,0 +1,10 @@
+Blackbeard 4 4 queen annes revenge
+Anne_Bonny 4 5 Royal fortune
+Calico_Jack 6 7 Adventure Galley
+Edward_England 6 8 fancy
+Mary_Read 9 1 Whydah
+Samual_Bellamy 6 9 Jolly Roger
+Thomas_Tew 4 2 Black Pearl
+William_Kidd 3 8 New York Revenge
+Sir_Francis_Drake 5 9 Golden Hind
+William_Dampier 6 9 Bachelors Delight
